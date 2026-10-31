@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManarArabi&label=Profile%20views&color=0e75b6&style=flat" alt="ManarArabi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManarArabi" alt="ManarArabi" /></a> </p>
-
 - 🔭 I build and scale backend systems with **Node.js, TypeScript and MongoDB**: APIs, payments, real-time chat, queues and background jobs.
 
 - 🧬 Latest project: **[clone-me](https://github.com/ManarArabi/clone-me)**, an open-source Claude skill that learns to code *and review* like you, from your PRs and every correction you make.
@@ -37,10 +35,4 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">GitHub stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ManarArabi&show_icons=true&locale=en" alt="ManarArabi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManarArabi&layout=compact&locale=en" alt="ManarArabi" />
 </p>
