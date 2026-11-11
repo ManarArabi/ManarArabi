@@ -10,7 +10,7 @@
 ### 👋 About me
 
 - 🔭 I build and scale backend systems: **APIs, payments, real-time chat, queues and background jobs**.
-- 🧠 I care about code that's secure by default, easy to review, and free of comments that just repeat the code.
+- 🧠 I write **clean, robust, secure-by-default** code: well-tested, bug-free, scalable and easy to review.
 - 🌱 Exploring **AI-assisted engineering with Claude Code**: teaching agents to work the way a senior engineer does.
 
 ### 🧬 Featured project
