@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Manar%20Arabi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Developer&descSize=20&descAlignY=58" width="100%" alt="Manar Arabi, Senior Backend Developer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+systems+with+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;APIs%2C+payments%2C+real-time+chat+and+queues;Building+clone-me%3A+an+AI+that+codes+like+you" alt="Backend systems with Node.js, TypeScript and MongoDB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;APIs%2C+payments%2C+real-time+chat%2C+queues;Building+clone-me%3A+AI+that+codes+like+you" alt="Node.js, TypeScript and MongoDB backend developer" />
 </p>
 
 <p align="center">
