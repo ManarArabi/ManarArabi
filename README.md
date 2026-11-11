@@ -40,4 +40,12 @@
 
 <p align="center">Also: <b>Socket.io</b> · <b>BullMQ</b> · <b>Mocha</b> · <b>Ionic</b></p>
 
+### 🐍 My contributions, eaten daily
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManarArabi/ManarArabi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManarArabi/ManarArabi/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ManarArabi/ManarArabi/output/github-snake.svg" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" alt="" />
