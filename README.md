@@ -1,24 +1,43 @@
-<h1 align="center">Hi 👋, I'm Manar Arabi</h1>
-<h3 align="center">Senior Backend Developer @<a href="https://github.com/dealapp-sa">dealapp-sa</a> · Egypt 🇪🇬</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Manar%20Arabi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Developer&descSize=20&descAlignY=58" width="100%" alt="Manar Arabi, Senior Backend Developer" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManarArabi&label=Profile%20views&color=0e75b6&style=flat" alt="ManarArabi" /> </p>
-
-- 🔭 I build and scale backend systems with **Node.js, TypeScript and MongoDB**: APIs, payments, real-time chat, queues and background jobs.
-
-- 🧬 Latest project: **[clone-me](https://github.com/ManarArabi/clone-me)**, an open-source Claude skill that learns to code *and review* like you, from your PRs and every correction you make.
-
-- 🌱 I'm currently exploring **AI-assisted engineering with Claude Code**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/ManarArabi?tab=repositories](https://github.com/ManarArabi?tab=repositories)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manar-arabi-124268120/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+systems+with+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;APIs%2C+payments%2C+real-time+chat+and+queues;Building+clone-me%3A+an+AI+that+codes+like+you" alt="Backend systems with Node.js, TypeScript and MongoDB" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mongodb,redis,postman,git,angular,py,flask,opencv,java,cpp&perline=7" alt="Node.js, TypeScript, JavaScript, Express, MongoDB, Redis, Postman, Git, Angular, Python, Flask, OpenCV, Java, C++" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/manar-arabi-124268120/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/dealapp-sa"><img src="https://img.shields.io/badge/@dealapp--sa-111827?style=for-the-badge&logo=github&logoColor=white" alt="dealapp-sa" /></a>
+  <img src="https://img.shields.io/badge/Egypt-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Egypt" />
 </p>
 
-Also: **Socket.io** · **Mocha** · **Ionic**
+### 👋 About me
+
+- 🔭 I build and scale backend systems: **APIs, payments, real-time chat, queues and background jobs**.
+- 🧠 I care about code that's secure by default, easy to review, and free of comments that just repeat the code.
+- 🌱 Exploring **AI-assisted engineering with Claude Code**: teaching agents to work the way a senior engineer does.
+
+### 🧬 Featured project
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ManarArabi/clone-me"><b>clone-me</b></a>: an open-source Claude skill that learns to <b>code and review like you</b>.<br /><br />
+      🔍 Learns from your commits and PR review comments<br />
+      👂 Turns every correction into a rule, even silent edits<br />
+      🕵️ Reviews PRs the way you would, and stops flagging what you call "too picky"<br />
+      🛡️ Copies your style, never your shortcuts<br /><br />
+      <a href="https://github.com/ManarArabi/clone-me"><img src="https://img.shields.io/badge/View%20on%20GitHub-2563EB?style=flat-square&logo=github&logoColor=white" alt="View on GitHub" /></a>
+      <img src="https://img.shields.io/badge/license-MIT-16a34a?style=flat-square" alt="MIT license" />
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mongodb,redis,postman,git,angular,py,flask,opencv,java,cpp&perline=7" alt="Node.js, TypeScript, JavaScript, Express, MongoDB, Redis, Postman, Git, Angular, Python, Flask, OpenCV, Java, C++" />
+</p>
+
+<p align="center">Also: <b>Socket.io</b> · <b>BullMQ</b> · <b>Mocha</b> · <b>Ionic</b></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" alt="" />
