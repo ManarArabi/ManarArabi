@@ -2,10 +2,6 @@
 <p align="center"><b>Senior Backend Developer</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&height=30&lines=Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;APIs%2C+payments%2C+real-time+chat%2C+queues;Building+clone-me%3A+AI+that+codes+like+you" alt="Node.js, TypeScript and MongoDB backend developer" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/manar-arabi-124268120/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/dealapp-sa"><img src="https://img.shields.io/badge/@dealapp--sa-111827?style=for-the-badge&logo=github&logoColor=white" alt="dealapp-sa" /></a>
   <img src="https://img.shields.io/badge/Egypt-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Egypt" />
